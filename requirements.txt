@@ -1,0 +1,19 @@
+faiss-cpu==1.7.2
+Pillow==9.2.0
+Flask==2.1.2
+Flask-Cors==3.0.10
+numpy==1.18.4
+tensorflow-gpu==2.6.0
+keras==2.6
+opencv-python==4.6.0.66
+tqdm==4.64.0
+requests==2.28.1
+protobuf==3.20.0
+
+# 克隆目录
+# git clone https://github.com/tensorflow/serving
+
+# 克隆
+# git clone https://github.com/pytorch/serve.git
+
+# VOCdevkit
